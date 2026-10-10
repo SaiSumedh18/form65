@@ -34,7 +34,11 @@ The configuration is encoded in `?case=blue&caps=arctic&switch=silent`. The cart
 
 ## Deploy
 
-The output is static and can be hosted on GitHub Pages or Vercel. No deployment or public repository has been created for this project yet.
+The output is static and can be hosted on GitHub Pages or Vercel. Live site: https://saisumedh18.github.io/form65/
+
+Source: https://github.com/SaiSumedh18/form65
+
+GitHub Actions runs lint and build before publishing to GitHub Pages on each push to main.
 
 ## Expanded product flow
 
